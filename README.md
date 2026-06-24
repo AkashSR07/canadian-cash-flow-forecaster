@@ -1,8 +1,8 @@
 
-# canadian-cash-flow-forecaster
+
 Canadian Cash Flow Forecaster is a Streamlit app for small businesses that uploads invoices and expenses, predicts future cash flow in CAD, flags liquidity risk, and gives practical recommendations to improve collections and control spending.
 =======
-# Canadian Cash Flow Forecaster
+
 
 A Streamlit dashboard that helps Canadian small businesses forecast short-term cash flow, monitor collection risk, and make better spending decisions. The app supports invoice and expense CSV uploads, shows projected cash balance, flags liquidity risk, and provides owner-friendly recommendations.
 
